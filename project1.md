@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Python Classes Project
 ===============
 
 -   **Class: Survey of Scripting Languages ** 
