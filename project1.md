@@ -16,10 +16,7 @@ This project applies object-oriented programming in Python by designing a RightT
 
 How to compile (if applicable) and run the project.
 
-```bash
-cd ./project
-python setup.py
-```
+
 
 No compile step since Python is interpreted. All you need to do is open a terminal in the folder with RightTriangle.py. The script isn't deployed.
 
