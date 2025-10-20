@@ -6,7 +6,7 @@ Project 1 Title
 -   **Class: Survey of Scripting Languages ** 
 -   **Grade: 100 ** 
 -   **Language(s): Python** 
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/bbatey1/CSCI-301-code-repository/blob/master/lab06/Lab06.py) to request access.)
+-   **Source Code Repository:** [features/mastering-markdown](https://github.com/bbatey1/CSCI-301-code-repository/tree/master/lab06) to request access.)
 
 ## Project description
 
