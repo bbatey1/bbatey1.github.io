@@ -32,7 +32,7 @@ When you run the program, it immediately executes a short demo that pronts the m
 
 ## 3. Additional Considerations
 
-There are no external dependencies beyond the standard library, so a virtual environment is optional, but it can keep your setup clean. The program prints floating-point results, so minor decimal differences by platform are normal; graders typically care about the values, not formatting.
+There are no external dependencies beyond the standard library, so a virtual environment is optional, but it can keep your setup clean. The program prints floating-point results, so minor decimal differences by platform are normal.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
