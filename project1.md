@@ -3,10 +3,10 @@
 Python Classes Project
 ===============
 
--   **Class: Survey of Scripting Languages ** 
--   **Grade: 100 ** 
--   **Language(s): Python** 
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/bbatey1/CSCI-301-code-repository/tree/master/lab06) to request access.)
+-   Class: Survey of Scripting Languages  
+-   Grade: 100 
+-   Language(s): Python 
+-   Source Code Repository: [features/mastering-markdown](https://github.com/bbatey1/CSCI-301-code-repository/tree/master/lab06) to request access.)
 
 ## Project description
 
