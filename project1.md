@@ -25,7 +25,7 @@ No compile step since Python is interpreted. All you need to do is open a termin
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+
 
 When you run the program, it immediately executes a short demo that pronts the measurements for example right triangles: the two side lendths, the calculated hypotenuse, and the calculated surface area. It does not prompt for input; you simply launch it to view the results, verify the numbers and re-run.
 
