@@ -31,10 +31,10 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [AI Paper ](/pdf/sample_presentation.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class: Survey of Scripting Languages  
+-   **Grade: n/a
 
 ### [Paper 2 Title](/pdf/sample_presentation.pdf)
 
